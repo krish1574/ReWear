@@ -1,0 +1,1 @@
+export const fetchItems = () => axios.get('http://localhost:5000/api/items');

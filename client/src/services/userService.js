@@ -1,0 +1,1 @@
+export const getUserProfile = () => axios.get('http://localhost:5000/api/users/profile');
